@@ -1,0 +1,1497 @@
+<rows>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"01"</codice>
+<regioni name="Regioni">"Piemonte"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">50</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">42</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">566</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">566</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">906</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.9</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">135</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"02"</codice>
+<regioni name="Regioni">"Valle d'Aosta/Vallée d'Aoste"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"03"</codice>
+<regioni name="Regioni">"Lombardia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2411</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2316</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">45357</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">45357</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">45357</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.9</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">6750</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"04"</codice>
+<regioni name="Regioni">"Trentino-Alto Adige"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">386</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">380</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">16610</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">16610</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">16610</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2567</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"05"</codice>
+<regioni name="Regioni">"Veneto"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">3525</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">3063</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">45945</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">42270</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">117</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">42270</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">6340</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"06"</codice>
+<regioni name="Regioni">"Friuli-Venezia Giulia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"07"</codice>
+<regioni name="Regioni">"Liguria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">15940</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">15420</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">317800</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">316400</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">13900</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">302500</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">57555</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"08"</codice>
+<regioni name="Regioni">"Emilia-Romagna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">3841</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">3068</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">47010</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">46281</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">46281</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.3</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">6606</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"09"</codice>
+<regioni name="Regioni">"Toscana"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">95449</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">87532</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1118347</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">986684</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">2300</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">477070</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.2</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">67668</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"10"</codice>
+<regioni name="Regioni">"Umbria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27847</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27809</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">293227</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">293227</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">50</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">293177</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">51288</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"11"</codice>
+<regioni name="Regioni">"Marche"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">9905</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">9584</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">314312</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">307618</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">15181</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">292437</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.3</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">41851</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"12"</codice>
+<regioni name="Regioni">"Lazio"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">81400</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">79995</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1772000</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1555000</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">53320</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1501680</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">262100</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"13"</codice>
+<regioni name="Regioni">"Abruzzo"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">43197</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">42688</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1298867</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1287128</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">10981</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1241764</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">182237</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"14"</codice>
+<regioni name="Regioni">"Molise"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">13606</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">13606</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">368728</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">368728</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">3000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">365728</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.6</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">57200</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"15"</codice>
+<regioni name="Regioni">"Campania"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">75402</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">74188</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2647418</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2634908</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">15469</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">2619439</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">440851</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"16"</codice>
+<regioni name="Regioni">"Puglia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">377500</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">373980</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">11332400</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">10980600</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">215000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">10765600</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1901601</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"17"</codice>
+<regioni name="Regioni">"Basilicata"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">26945</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">25152</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">318176</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">318176</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">1136</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">317040</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">62639</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"18"</codice>
+<regioni name="Regioni">"Calabria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">188576</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">184598</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">8292524</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">7685736</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">60777</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">7206936</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1423263</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"19"</codice>
+<regioni name="Regioni">"Sicilia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">159402</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">156882</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">3451068</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">3290082</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">368747</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">2921335</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">488502</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"20"</codice>
+<regioni name="Regioni">"Sardegna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"021"</codice>
+<regioni name="Regioni">"Bolzano/Bozen"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"022"</codice>
+<regioni name="Regioni">"Trento"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">386</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">380</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">16610</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">16610</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">16610</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2567</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2012"</anno>
+<codice name="codice">"IT"</codice>
+<regioni name="Regioni">"Italia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">1125382</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">1100303</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">31680355</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">30175371</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">759978</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">28456130</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">278.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">5059153</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"01"</codice>
+<regioni name="Regioni">"Piemonte"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">118</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">55</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1377</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1374</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">84</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1290</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">181</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"02"</codice>
+<regioni name="Regioni">"Valle d'Aosta/Vallée d'Aoste"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"03"</codice>
+<regioni name="Regioni">"Lombardia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2412</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2315</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">57243</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">57243</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">57243</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">7722</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"04"</codice>
+<regioni name="Regioni">"Trentino-Alto Adige"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">390</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">385</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">16825</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">16825</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">16825</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2750</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"05"</codice>
+<regioni name="Regioni">"Veneto"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2976</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2779</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">41604</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">36473</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">36473</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">5472</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"06"</codice>
+<regioni name="Regioni">"Friuli-Venezia Giulia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">112</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">97</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2255</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2254</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">359</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1895</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">18.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">333</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"07"</codice>
+<regioni name="Regioni">"Liguria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">16040</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">15620</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">326180</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">323180</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">15900</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">307280</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">57278</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"08"</codice>
+<regioni name="Regioni">"Emilia-Romagna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">3836</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">3051</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">59840</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">59840</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">59840</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">6872</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"09"</codice>
+<regioni name="Regioni">"Toscana"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">94330</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">87637</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1253305</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1175023</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">8676</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1166347</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">168084</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"10"</codice>
+<regioni name="Regioni">"Umbria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27064</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27026</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">433500</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">433500</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">50</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">433450</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">57300</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"11"</codice>
+<regioni name="Regioni">"Marche"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">9978</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">9669</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">284073</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">274669</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">12360</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">262309</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">33402</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"12"</codice>
+<regioni name="Regioni">"Lazio"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">81700</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">80000</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1333450</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1200000</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">15820</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1184180</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">193950</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"13"</codice>
+<regioni name="Regioni">"Abruzzo"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">42588</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">42110</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1315578</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1293988</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">14662</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1279326</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">185924</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"14"</codice>
+<regioni name="Regioni">"Molise"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">13606</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">13606</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">368728</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">368728</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">3000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">365728</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">57200</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"15"</codice>
+<regioni name="Regioni">"Campania"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">75203</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">74261</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2502877</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2416747</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">26278</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">2390469</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">380255</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"16"</codice>
+<regioni name="Regioni">"Puglia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">376000</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">374250</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">12341500</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">11937950</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">232500</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">11705450</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1848259</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"17"</codice>
+<regioni name="Regioni">"Basilicata"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">28550</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27123</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">341790</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">340563</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">1113</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">339450</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">18.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">61967</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"18"</codice>
+<regioni name="Regioni">"Calabria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">182662</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">181786</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">6231333</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">5701991</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">133156</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">5568835</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1032051</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"19"</codice>
+<regioni name="Regioni">"Sicilia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">158232</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">156417</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">3493580</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">3384240</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">366347</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">3017893</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">492807</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"20"</codice>
+<regioni name="Regioni">"Sardegna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">31066</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">30626</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">405064</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">380864</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">48185</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">332679</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">45200</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"021"</codice>
+<regioni name="Regioni">"Bolzano/Bozen"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"022"</codice>
+<regioni name="Regioni">"Trento"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">390</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">385</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">16825</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">16825</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">16825</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2750</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2013"</anno>
+<codice name="codice">"IT"</codice>
+<regioni name="Regioni">"Italia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">1146863</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">1128813</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">30810102</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">29405452</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">878490</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">28526962</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">4637007</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"01"</codice>
+<regioni name="Regioni">"Piemonte"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">116</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">53</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1210</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1207</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">107</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1100</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">167</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"02"</codice>
+<regioni name="Regioni">"Valle d'Aosta/Vallée d'Aoste"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"03"</codice>
+<regioni name="Regioni">"Lombardia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2418</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2315</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">20015</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">20015</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">20015</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2667</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"04"</codice>
+<regioni name="Regioni">"Trentino-Alto Adige"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">388</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">382</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">15361</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">15361</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">15361</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2507</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"05"</codice>
+<regioni name="Regioni">"Veneto"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2916</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2916</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">38884</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">36706</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">36706</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">4265</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"06"</codice>
+<regioni name="Regioni">"Friuli-Venezia Giulia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">114</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">96</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2212</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2209</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">299</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1910</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">330</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"07"</codice>
+<regioni name="Regioni">"Liguria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">15100</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">14500</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">88000</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">59600</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">4300</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">55300</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">8500</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"08"</codice>
+<regioni name="Regioni">"Emilia-Romagna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">3875</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">3081</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">31480</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">29702</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">29702</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">3204</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"09"</codice>
+<regioni name="Regioni">"Toscana"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">93629</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">85358</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">732755</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">533410</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">5774</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">527636</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">76890</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"10"</codice>
+<regioni name="Regioni">"Umbria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27064</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27026</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">223452</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">223452</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">20</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">223432</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">10.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">22345</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"11"</codice>
+<regioni name="Regioni">"Marche"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">9858</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">9427</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">185457</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">139588</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">6853</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">132735</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">15926</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"12"</codice>
+<regioni name="Regioni">"Lazio"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">82487</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">80175</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1119617</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">645010</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">9900</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">635110</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">84320</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"13"</codice>
+<regioni name="Regioni">"Abruzzo"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">41954</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">41475</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1018886</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">399553</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">9053</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">390500</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">47470</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"14"</codice>
+<regioni name="Regioni">"Molise"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">23606</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">13606</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">368728</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">368728</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">3000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">365728</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">57200</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"15"</codice>
+<regioni name="Regioni">"Campania"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">75240</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">74334</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1068680</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">925180</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">9207</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">915973</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">143888</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"16"</codice>
+<regioni name="Regioni">"Puglia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">377000</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">375450</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">8550600</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">8417600</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">204000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">8213600</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1307280</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"17"</codice>
+<regioni name="Regioni">"Basilicata"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27480</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">25809</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">333595</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">333186</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">1127</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">332059</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">62269</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"18"</codice>
+<regioni name="Regioni">"Calabria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">183181</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">181318</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">5457251</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">4755144</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">90337</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">4664807</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">19.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">885019</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"19"</codice>
+<regioni name="Regioni">"Sicilia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">159310</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">157040</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2408700</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2331370</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">209305</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">2122065</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">361114</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"20"</codice>
+<regioni name="Regioni">"Sardegna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">31048</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">30822</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">407163</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">399736</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">49150</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">350586</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">47860</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"021"</codice>
+<regioni name="Regioni">"Bolzano/Bozen"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"022"</codice>
+<regioni name="Regioni">"Trento"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">388</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">382</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">15361</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">15361</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">15361</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2507</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2014"</anno>
+<codice name="codice">"IT"</codice>
+<regioni name="Regioni">"Italia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">1156784</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">1125183</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">22072046</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">19636757</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">602432</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">19034325</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">3133221</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"01"</codice>
+<regioni name="Regioni">"Piemonte"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">137</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">121</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2153</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2075</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">145</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1930</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">241</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"02"</codice>
+<regioni name="Regioni">"Valle d'Aosta/Vallée d'Aoste"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"03"</codice>
+<regioni name="Regioni">"Lombardia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2417</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2307</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">51492</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">51492</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">51492</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.2</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">5755</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"04"</codice>
+<regioni name="Regioni">"Trentino-Alto Adige"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">390</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">385</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">19000</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">19000</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">19000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.3</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2530</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"05"</codice>
+<regioni name="Regioni">"Veneto"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">4960</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">4960</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">230247</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">218741</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">202</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">218539</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">28724</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"06"</codice>
+<regioni name="Regioni">"Friuli-Venezia Giulia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">600</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">410</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">13860</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">13860</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">13860</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1941</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"07"</codice>
+<regioni name="Regioni">"Liguria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">16640</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">15340</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">231050</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">210050</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">27850</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">182200</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">31660</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"08"</codice>
+<regioni name="Regioni">"Emilia-Romagna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">3925</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">3304</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">53618</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">53618</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">53618</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.9</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">6386</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"09"</codice>
+<regioni name="Regioni">"Toscana"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">91080</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">83819</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">960603</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">936523</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">6165</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">930358</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">121919</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"10"</codice>
+<regioni name="Regioni">"Umbria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27085</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27027</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">451335</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">451335</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">10</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">451325</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">7.2</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">32472</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"11"</codice>
+<regioni name="Regioni">"Marche"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">9801</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">9492</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">269346</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">248952</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">10306</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">238646</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.6</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">30045</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"12"</codice>
+<regioni name="Regioni">"Lazio"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">81580</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">79441</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1580588</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1443850</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">33350</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1410500</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.6</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">224460</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"13"</codice>
+<regioni name="Regioni">"Abruzzo"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">41908</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">41467</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">860824</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">812644</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">7820</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">804824</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.4</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">97458</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"14"</codice>
+<regioni name="Regioni">"Molise"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">15360</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">15360</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">691950</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">691950</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">3000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">688950</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">10.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">68645</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"15"</codice>
+<regioni name="Regioni">"Campania"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">75449</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">74735</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">911591</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">588400</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">2598</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">585802</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">9.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">81578</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"16"</codice>
+<regioni name="Regioni">"Puglia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">381000</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">379315</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">7586500</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">7185800</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">180800</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">7005000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.3</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1060500</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"17"</codice>
+<regioni name="Regioni">"Basilicata"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27232</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27180</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">333555</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">333429</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">1112</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">332317</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">18.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">62110</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"18"</codice>
+<regioni name="Regioni">"Calabria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">183921</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">183220</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">4940379</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">4224395</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">69020</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">4155375</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.6</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">755032</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"19"</codice>
+<regioni name="Regioni">"Sicilia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">160300</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">158510</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2673920</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2649280</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">362270</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">2287010</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.4</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">309476</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"20"</codice>
+<regioni name="Regioni">"Sardegna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">40604</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">38554</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">27214</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">24764</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">7625</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">17139</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2571</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"021"</codice>
+<regioni name="Regioni">"Bolzano/Bozen"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"022"</codice>
+<regioni name="Regioni">"Trento"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">390</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">385</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">19000</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">19000</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">19000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.3</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2530</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2016"</anno>
+<codice name="codice">"IT"</codice>
+<regioni name="Regioni">"Italia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">1164389</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">1144947</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">21889225</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">20160158</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">712273</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">19447885</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2923503</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"01"</codice>
+<regioni name="Regioni">"Piemonte"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">150</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">137</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2068</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2032</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">111</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1921</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">235</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"02"</codice>
+<regioni name="Regioni">"Valle d'Aosta/Vallée d'Aoste"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"03"</codice>
+<regioni name="Regioni">"Lombardia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">2420</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">2335</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">43316</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">43316</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">43316</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.1</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">4787</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"04"</codice>
+<regioni name="Regioni">"Trentino-Alto Adige"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">388</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">385</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">15000</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">15000</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">15000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2250</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"05"</codice>
+<regioni name="Regioni">"Veneto"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">5300</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">4979</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">116696</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">110867</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">138</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">110729</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">18474</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"06"</codice>
+<regioni name="Regioni">"Friuli-Venezia Giulia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">600</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">410</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">13980</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">13980</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">13980</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1957</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"07"</codice>
+<regioni name="Regioni">"Liguria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">16840</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">16640</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">231120</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">208120</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">34600</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">173520</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">21840</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"08"</codice>
+<regioni name="Regioni">"Emilia-Romagna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">3934</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">3400</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">43389</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">43389</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">43389</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">6727</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"09"</codice>
+<regioni name="Regioni">"Toscana"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">91225</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">84010</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">866054</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">786372</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">1840</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">784532</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">127979</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"10"</codice>
+<regioni name="Regioni">"Umbria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27145</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">25421</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">388987</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">388987</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">10</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">388977</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">14.1</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">54826</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"11"</codice>
+<regioni name="Regioni">"Marche"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">9280</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">9067</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">259784</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">243160</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">10860</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">232300</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">11.6</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">28740</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"12"</codice>
+<regioni name="Regioni">"Lazio"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">82691</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">81171</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1218810</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1152350</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">10350</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1142000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">12.7</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">153190</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"13"</codice>
+<regioni name="Regioni">"Abruzzo"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">42007</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">41528</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">1278910</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1278110</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">13500</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1264610</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.1</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">190624</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"14"</codice>
+<regioni name="Regioni">"Molise"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">15360</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">15360</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">691950</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">691950</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">3000</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">688950</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">10.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">68600</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"15"</codice>
+<regioni name="Regioni">"Campania"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">75641</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">74763</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2013060</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">1977004</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">5558</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">1971446</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">317984</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"16"</codice>
+<regioni name="Regioni">"Puglia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">383650</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">382000</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">9925500</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">9777450</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">203450</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">9574000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.3</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1679280</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"17"</codice>
+<regioni name="Regioni">"Basilicata"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">27517</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">27264</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">328877</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">326710</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">810</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">325900</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">17.9</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">58800</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"18"</codice>
+<regioni name="Regioni">"Calabria"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">184499</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">183368</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">7127790</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">6597108</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">100755</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">6496353</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">18.1</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">1268487</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"19"</codice>
+<regioni name="Regioni">"Sicilia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">160906</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">158678</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">2478763</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">2422757</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">334709</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">2088048</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.5</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">352189</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"20"</codice>
+<regioni name="Regioni">"Sardegna"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">40604</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">38554</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">27214</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">24764</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">7625</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">17139</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">13.8</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2571</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"021"</codice>
+<regioni name="Regioni">"Bolzano/Bozen"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">0</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">0</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">0</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">0</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">0</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">0.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">0</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"022"</codice>
+<regioni name="Regioni">"Trento"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">388</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">385</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">15000</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">15000</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">0</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">15000</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">15.0</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">2250</olio_di_pressione_produzione__quintali_>
+</row>
+<row>
+<anno name="Anno">"2017"</anno>
+<codice name="codice">"IT"</codice>
+<regioni name="Regioni">"Italia"</regioni>
+<olive_superficie__ha_ name="Olive Superficie (ha)">1170157</olive_superficie__ha_>
+<olive_superficie_in_produzione__ha_ name="Olive Superficie in produzione (ha)">1149470</olive_superficie_in_produzione__ha_>
+<olive_produzione__quintali_ name="Olive Produzione (quintali)">27071268</olive_produzione__quintali_>
+<olive_da_tavola_produzione_raccolta__quintali_ name="Olive da tavola Produzione raccolta (quintali)">26103426</olive_da_tavola_produzione_raccolta__quintali_>
+<olive_da_tavola_produzione__quintali_ name="Olive da tavola Produzione (quintali)">727316</olive_da_tavola_produzione__quintali_>
+<olive_da_olio_produzione__quintali_ name="Olive da olio Produzione (quintali)">25376110</olive_da_olio_produzione__quintali_>
+<olio_di_pressione_resa_di_produzione__quintali_ name="Olio di pressione Resa di produzione (quintali)">16.6</olio_di_pressione_resa_di_produzione__quintali_>
+<olio_di_pressione_produzione__quintali_ name="Olio di pressione Produzione (quintali)">4359540</olio_di_pressione_produzione__quintali_>
+</row>
+</rows>
